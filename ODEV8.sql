@@ -1,0 +1,64 @@
+-- CREATE TABLE employee(
+--       id INTEGER,
+-- 	  name VARCHAR(50),
+-- 	birtday DATE,
+-- 	email VARCHAR(100)
+-- );
+-- insert into employee (id, name, email, birtday) values (1, 'Art', 'afreear0@acquirethisname.com', '2022-03-12');
+-- insert into employee (id, name, email, birtday) values (2, 'Craggy', 'cfrunks1@ebay.com', '2022-04-16');
+-- insert into employee (id, name, email, birtday) values (3, 'Stanislaus', 'swhitney2@devhub.com', '2022-08-13');
+-- insert into employee (id, name, email, birtday) values (4, 'Halie', 'harpur3@sakura.ne.jp', '2022-02-19');
+-- insert into employee (id, name, email, birtday) values (5, 'Tina', 'tlivingstone4@wikipedia.org', '2022-04-03');
+-- insert into employee (id, name, email, birtday) values (6, 'Sheela', 'sedge5@pcworld.com', '2022-08-12');
+-- insert into employee (id, name, email, birtday) values (7, 'Peyter', 'plees6@vinaora.com', '2022-04-07');
+-- insert into employee (id, name, email, birtday) values (8, 'Garvin', 'ggianni7@amazonaws.com', '2022-08-08');
+-- insert into employee (id, name, email, birtday) values (9, 'Bee', 'bceland8@booking.com', '2022-12-03');
+-- insert into employee (id, name, email, birtday) values (10, 'Celie', 'ckuhnwald9@vkontakte.ru', '2022-05-22');
+-- insert into employee (id, name, email, birtday) values (11, 'Matty', 'mpietsmaa@gmpg.org', '2022-07-14');
+-- insert into employee (id, name, email, birtday) values (12, 'Anita', 'ayushinb@netvibes.com', '2022-04-07');
+-- insert into employee (id, name, email, birtday) values (13, 'Aurea', 'aeltonec@reference.com', '2022-06-05');
+-- insert into employee (id, name, email, birtday) values (14, 'Clarine', 'ctitchmarshd@com.com', '2022-02-09');
+-- insert into employee (id, name, email, birtday) values (15, 'Micky', 'mmeade@slideshare.net', '2022-10-01');
+-- insert into employee (id, name, email, birtday) values (16, 'Mickie', 'mcreef@goodreads.com', '2022-04-11');
+-- insert into employee (id, name, email, birtday) values (17, 'Ursula', 'ujeppsg@businesswire.com', '2022-01-01');
+-- insert into employee (id, name, email, birtday) values (18, 'Deana', 'dkiehnlth@sohu.com', '2022-01-27');
+-- insert into employee (id, name, email, birtday) values (19, 'Rawley', 'rsambellsi@webeden.co.uk', '2022-11-25');
+-- insert into employee (id, name, email, birtday) values (20, 'Danyette', 'dvermaj@hao123.com', '2022-11-19');
+-- insert into employee (id, name, email, birtday) values (21, 'Aleece', 'aphippsk@berkeley.edu', '2022-08-16');
+-- insert into employee (id, name, email, birtday) values (22, 'Cymbre', 'cmcgillecolel@issuu.com', '2022-04-30');
+-- insert into employee (id, name, email, birtday) values (23, 'Hurley', 'hgislebertm@economist.com', '2022-04-07');
+-- insert into employee (id, name, email, birtday) values (24, 'Nels', 'ntarrn@walmart.com', '2022-02-26');
+-- insert into employee (id, name, email, birtday) values (25, 'Egon', 'emckinleyo@house.gov', '2022-03-10');
+-- insert into employee (id, name, email, birtday) values (26, 'Annis', 'abernotp@cloudflare.com', '2022-11-10');
+-- insert into employee (id, name, email, birtday) values (27, 'Roscoe', 'racremanq@census.gov', '2022-07-19');
+-- insert into employee (id, name, email, birtday) values (28, 'Toiboid', 'tmcneilleyr@rakuten.co.jp', '2022-05-02');
+-- insert into employee (id, name, email, birtday) values (29, 'Matthew', 'mocallerans@marketwatch.com', '2022-09-21');
+-- insert into employee (id, name, email, birtday) values (30, 'Bab', 'blembket@ehow.com', '2021-12-14');
+-- insert into employee (id, name, email, birtday) values (31, 'Otho', 'otadgellu@slashdot.org', '2022-02-13');
+-- insert into employee (id, name, email, birtday) values (32, 'Edd', 'emayheadv@printfriendly.com', '2022-07-13');
+-- insert into employee (id, name, email, birtday) values (33, 'Sigfrid', 'sbrownw@simplemachines.org', '2022-07-09');
+-- insert into employee (id, name, email, birtday) values (34, 'Mitch', 'mcaygillx@addthis.com', '2022-11-13');
+-- insert into employee (id, name, email, birtday) values (35, 'Karly', 'kshepherdy@soup.io', '2022-02-18');
+-- insert into employee (id, name, email, birtday) values (36, 'Alma', 'acutcheez@ihg.com', '2022-03-26');
+-- insert into employee (id, name, email, birtday) values (37, 'Obie', 'odonwell10@ed.gov', '2022-09-10');
+-- insert into employee (id, name, email, birtday) values (38, 'Randie', 'rbrookes11@hexun.com', '2022-06-12');
+-- insert into employee (id, name, email, birtday) values (39, 'Mitchael', 'mstampe12@washington.edu', '2022-07-25');
+-- insert into employee (id, name, email, birtday) values (40, 'Audry', 'aromanin13@lycos.com', '2022-01-03');
+-- insert into employee (id, name, email, birtday) values (41, 'Berk', 'bugo14@ftc.gov', '2022-06-04');
+-- insert into employee (id, name, email, birtday) values (42, 'Madelene', 'mpiris15@spotify.com', '2022-01-07');
+-- insert into employee (id, name, email, birtday) values (43, 'Sayer', 'smobberley16@51.la', '2022-10-06');
+-- insert into employee (id, name, email, birtday) values (44, 'Gabby', 'gstanford17@trellian.com', '2022-09-30');
+-- insert into employee (id, name, email, birtday) values (45, 'West', 'wguyon18@cyberchimps.com', '2022-09-28');
+-- insert into employee (id, name, email, birtday) values (46, 'Biddie', 'bcasbourne19@fastcompany.com', '2022-01-21');
+-- insert into employee (id, name, email, birtday) values (47, 'Court', 'croote1a@mediafire.com', '2021-12-18');
+-- insert into employee (id, name, email, birtday) values (48, 'Eran', 'emcdill1b@home.pl', '2022-09-22');
+-- insert into employee (id, name, email, birtday) values (49, 'Owen', 'ocrighten1c@time.com', '2022-07-24');
+-- insert into employee (id, name, email, birtday) values (50, 'Noellyn', 'nbampkin1d@shop-pro.jp', '2022-02-08');
+
+-- UPDATE employee
+-- SET name ='Onur'
+-- WHERE id BETWEEN 10 AND 15;
+
+-- DELETE FROM employee
+-- WHERE name LIKE 'O%'
+-- RETURNING * ; 
